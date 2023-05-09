@@ -1,0 +1,42 @@
+.header-part{
+    font-weight: 700;
+    height: 100px;
+    border-radius: 10px;
+}
+.title-bar{
+    border-radius: 10px;
+}
+.sidebar-area{
+    border-radius: 10px;
+}
+.sidebar-area h2{
+    text-decoration: underline;
+}
+.sidebar-area p{
+    font-size: 15px;
+    color: black;
+}
+.main-area{
+    border-radius: 10px;
+}
+.main-area h2{
+    text-decoration: underline;
+}
+.main-area p{
+    font-size: 15px;
+    text-align: justify;
+    padding: 30px;
+    color: black;
+}
+.footer-area{
+    font-weight: 700;
+    height: 100px;
+    border-radius: 10px;
+}
+.footer-area{
+    border-radius: 10px; 
+}
+
+
+
+
